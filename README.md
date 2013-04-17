@@ -1,4 +1,4 @@
-android_bootable_recovery_cn_vivo
+android_bootable_recovery_cn
 =================================
 
 Chinese recovery, Gmm recovery
